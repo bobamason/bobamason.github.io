@@ -1,0 +1,36 @@
+
+
+/* ==========================================================================
+   Author's custom styles
+   ========================================================================== */
+
+.navbar-inverse{
+    background: #337ab7;
+    border-radius: 0px;
+}
+
+.navbar-inverse .navbar-brand{
+    color: #fff;
+}
+.navbar-inverse .navbar-brand:hover,.navbar-brand:focus{
+    background: #236aa7;
+}
+
+.jumbotron{
+    background: #3c3c3c;
+    color: #fff;
+}
+
+
+
+
+
+
+
+
+
+
+
+
+
+
